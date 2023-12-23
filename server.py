@@ -1,4 +1,4 @@
-#Code from my first Flask API Lab!
+#Code from my first Flask API Lab
 #Use flask --app server --debug run to run the server
 
 from flask import Flask, make_response, request
